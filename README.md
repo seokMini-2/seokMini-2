@@ -62,7 +62,7 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsm927782)](https://solved.ac/lsm927782/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsm927782)](https://solved.ac/profile/lsm927782)
 
 <br>
 <br>
