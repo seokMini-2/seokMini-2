@@ -40,7 +40,6 @@
 # 👋 Activities
 
 - UMC 8th plan part (25.3 ~ )
-- 멋쟁이사자처럼ERICA 13기 BACK-END part(25.3 ~ )
 
 
 <br>
