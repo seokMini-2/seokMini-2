@@ -1,4 +1,4 @@
-## 👋 안녕하새우 👋
+## 👋 Hello 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=항상%20건강하세요&fontSize=90)
 
@@ -10,7 +10,8 @@
 🏫 edu : **Hanyang Univ, ERICA**
 <br>
 <br>
-✏️ major : **Division of ICT**
+✏️ 1st major : **Division of ICT**
+✏️ 2nd major : **Computer Science**
 
 </div>
 <br>
