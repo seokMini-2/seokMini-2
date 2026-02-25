@@ -11,6 +11,8 @@
 <br>
 <br>
 ✏️ 1st major : **Division of ICT**
+
+</div>
 ✏️ 2nd major : **Computer Science**
 
 </div>
