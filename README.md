@@ -70,11 +70,4 @@
 <br>
 <br>
 <br>
-
-# Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokMini-2)](https://github.com/seokMini-2/github-readme-stats)
-
-
-<br>
-<br>
   
