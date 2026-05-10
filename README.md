@@ -77,9 +77,4 @@
 
 <br>
 <br>
-
-# GitHub Stats
-<br>
-
-![hana's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokMini-2&show_icons=true&theme=radical)
   
